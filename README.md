@@ -1,1 +1,1 @@
-# CognoRise-Infotech
+# beginner-project
